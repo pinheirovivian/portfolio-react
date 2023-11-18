@@ -31,7 +31,7 @@ export function Banner() {
             Olá! Eu me chamo Vivian, mas também sou conhecida por Vivi!
           </PresentationText>
           <a
-            href="https://drive.google.com/file/d/1qfWZMpOmPGtd3hY3zOBNwD8dPbU1gqpk/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1qfWZMpOmPGtd3hY3zOBNwD8dPbU1gqpk/view"
             target="_blank"
           >
             <ButtonCurriculum>Baixar Currículo</ButtonCurriculum>
