@@ -40,12 +40,6 @@ export function Aboutme() {
             <ContrastText>Design Thinking e UX/UI Design</ContrastText>,  atráves de cursos da FIAP, e
             tenho investido em <ContrastText>projetos pessoais</ContrastText> e em
             estudar <ContrastText>inglês</ContrastText>.
-            <TextParagraph>
-            <br />
-            Estou pronta para explorar novos horizontes, desenvolver soluções 
-            inovadoras e crescer profissionalmente, navegando por esse universo fascinante de oportunidades tecnológicas.
-            <br />
-            </TextParagraph>
           </TextParagraph>
         </BodyOfText>
       </AboutMeContent>
