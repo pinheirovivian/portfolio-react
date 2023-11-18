@@ -1,5 +1,7 @@
 # Meu Site Pessoal | ReactJS
 
+   <a href="https://react-portfolio-flame-three.vercel.app/">check out the site</a>
+
 ## Breve descrição
 
 Para desenvolver o design do site, eu utilizei um design desenvolvido por Sourasith (https://tinyurl.com/4t8sw9s8) e publicado na comunidade do Figma. A partir desse design, eu fiz alterações e desenvolvi o design do meu site pessoal.
