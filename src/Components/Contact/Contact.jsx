@@ -46,10 +46,10 @@ export function Contact() {
 
     emailjs
       .send(
-        "service_2uh7jba",
-        "template_w4plbme",
+        "NOVO-ID-DO-SERVICO",
+        "NOVO-ID-DO-MODELO",
         templateParams,
-        "f5tTPX4znb1DrQjcW"
+        "NOVA-CHAVE-DE-API"
       )
       .then(
         () => {
